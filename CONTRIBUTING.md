@@ -94,6 +94,15 @@ If you believe the bot got something wrong, please open a new issue and let us k
 
 If you are interested in writing code to fix issues, please see [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute) in the wiki.
 
+<!-- Versão parcial traduzida para fins acadêmicos -->
+
+# Contribuindo com o VS Code (Versão em Português - Parcial)
+
+Este é um trecho traduzido parcialmente do guia oficial de contribuição do VS Code, criado com finalidade acadêmica.
+Para a versão completa, consulte o original em inglês abaixo ou acesse diretamente o link: https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md
+
+
+
 ## Thank You
 
 Your contributions to open source, large or small, make great projects like this possible. Thank you for taking the time to contribute.
