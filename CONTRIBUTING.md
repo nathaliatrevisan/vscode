@@ -98,7 +98,8 @@ If you are interested in writing code to fix issues, please see [How to Contribu
 
 # Contribuindo com o VS Code (Versão em Português - Parcial)
 
-Este é um trecho traduzido parcialmente do guia oficial de contribuição do VS Code, criado com finalidade acadêmica.
+Esse é um trecho traduzido parcialmente do guia oficial de contribuição do VS Code, criado com finalidade acadêmica.
+
 Para a versão completa, consulte o original em inglês abaixo ou acesse diretamente o link: https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md
 
 
